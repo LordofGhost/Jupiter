@@ -47,11 +47,6 @@ The Api can be tested with `Swagger` at this localhost address `http://localhost
 - Creating relations between shelves and products
 - Creating a identity system with login
 
-## Questions
-
-- How can I represent a model relation correctly in EF
-- How does the identity system work
-
 ## Credits
 
 This Project was originaly based on this Blog [Post](https://medium.com/@hassanjabbar2017/performing-crud-operations-using-react-with-net-core-a-step-by-step-guide-0176efa86934), but now it corresponds to less than 10% of the codebase.
